@@ -132,7 +132,7 @@ These results indicate strong performance on the dataset used for this project.
 ##  Streamlit Web Application
 
 An interactive web application was created using **Streamlit**.
-[[\Live Link\](https://codealphacreditscoringmodel-eqcyygrz3wwbxealesyjvh.streamlit.app/)]
+Live Link: https://codealphacreditscoringmodel-eqcyygrz3wwbxealesyjvh.streamlit.app
 
 The application allows users to enter information such as:
 
