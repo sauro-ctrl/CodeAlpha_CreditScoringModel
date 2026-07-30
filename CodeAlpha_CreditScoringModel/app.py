@@ -3,7 +3,7 @@ import pandas as pd
 import streamlit as st
 
 
-model = joblib.load("D:/intern/Model/Decision_tree_Pipeline.pkl")
+model = joblib.load("Model/Decision_tree_Pipeline.pkl")
 
 st.title("Credit Eligibility Predictor")
 
