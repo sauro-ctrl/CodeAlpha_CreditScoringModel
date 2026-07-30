@@ -163,9 +163,11 @@ CodeAlpha_CreditScoringModel/
 ├── Model/
 │   └── Decision_tree_Pipeline.pkl
 │
-├── EDA.ipynb
-├── Training.ipynb
+├── Notebook/
+│   ├── EDA.ipynb
+│   └── Training.ipynb
 ├── app.py
+├── .gitignore
 ├── requirements.txt
 └── README.md
 ```
